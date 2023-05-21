@@ -1,1 +1,5 @@
 # Lab 8 - Starter
+Chaeyeon Park
+
+1. I would fit the automated tests within a Github action that runs whenever code is pushed because the testing suite should be automated and make testing consistent among all collaborators that push to a repository. By automating the tests within a Github action, we ensure that the tests are consistently run whenever new code is pushed, regardless of the individual developer's workflow. This promotes a standardized and reliable testing process, making it easier to catch any issues or bugs early on. It also facilitates collaboration among team members by providing a consistent testing environment for everyone working on the Recipe project.
+2. No, an end-to-end test is not typically used to check if a function is returning the correct output. End-to-end tests are primarily focused on simulating user interactions and verifying the overall behavior and flow of a system or application. They are more suitable for testing the entire user journey and ensuring that various components of the system work together correctly. To check if a function is returning the correct output, unit tests or integration tests would be more appropriate. 
